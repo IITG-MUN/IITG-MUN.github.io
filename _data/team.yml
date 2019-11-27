@@ -30,8 +30,8 @@
   thumbnailUrl: radhika.jpg
   description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
   team: true
-- <!--
-  id: 4
+- 
+  /*id: 4
   name: "Sangam"
   surname: "Sharma"
   title: "USG Public Relations"
@@ -173,5 +173,4 @@
   title: "USG Branding"
   thumbnailUrl: rohan.jpg
   description: ""
-  team: true
-  -->
+  team: true*/
