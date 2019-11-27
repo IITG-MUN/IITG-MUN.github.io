@@ -1,34 +1,34 @@
 - 
   id: 0
-  name: "Tejal"
-  surname: "Agarwal"
+  name: "Param"
+  surname: "Kothari"
   title: "Secretary General"
-  thumbnailUrl: tejal.jpg
-  description: "The unquestionable Mafia champion of the team, you just cannot defeat Tejal in an argument. Always with an amusing reply on the tip of her tongue, her innate smartness is conspicuous in her work as writer. An intense blend of acute reasoning and flawless language, her articles are a joy to read.  Although her witty retorts might prove fatal at times, Tejal is the most convivial person you’ll ever meet."
+  thumbnailUrl: param.jpg
+  description: "Having been a part of the international press before, this man is the one who makes the team tick. Zealous, industrious and punctual to the point where it’s annoying. A pun lord in his free time, Param’s love for sleep can only be surpassed by his love for football."
   team: true
 - 
   id: 1
-  name: "Sanchit"
-  surname: "Jhunjhunwala"
+  name: "Akash"
+  surname: "Sharma"
   title: "Chief of Staff"
-  thumbnailUrl: sanchit.jpg
-  description: "For three years, Sanchit has been a pillar among the many, for the team. This hard working chap, with a profound knowledge of international relations and political dynamics has a zest for expression and writing. His acumen at managing teams makes him a leader to follow. Work aside, he loves stringing rhymes on his violin and idolizes Jonathan Nolan."
+  thumbnailUrl: akash.jpg
+  description: "The multi-tasking maestro of the team, his energy and vigour are unmatched. From working in conference affairs to then shifting his focus to agenda research, Akash is literally the literary backbone of the team. Already well versed with politics and international relations, his thirst for knowledge keeps adding to his platter. In his free time, (if he gets any) Akash loves to travel and play table tennis."
   team: true
 - 
   id: 2
-  name: "Shubhang"
-  surname: "Shukla"
-  title: "Director General"
-  thumbnailUrl: shukla.jpg
-  description: "The undisputed quizzing champion of IIT Guwahati, Shubhang is not someone you'd want to challenge when it comes to knowing facts and figure. His keen interest in football is reflected in the way he idolizes Lionel Messi and he thoroughly enjoys reading. There's definitely so much more to him than what meets the eye. Above all, the quality one would admire the most is how he'll always go out of his way to help someone."
+  name: "Shubham"
+  surname: "Salunke"
+  title: "USG Public Relations"
+  thumbnailUrl: shubham.jpg
+  description: "Working diligently in the Conference affairs, Shubham never shies away from responsibilities. Give him any task and he will execute it with utmost punctuality and enthusiasm. Apart from his tireless zeal, he is an avid football enthusiast as well as an immaculate player."
   team: true
 - 
   id: 3
-  name: "Shwetank"
-  surname: "Panwar"
+  name: "Radhika"
+  surname: "Goyal"
   title: "Director International Press"
-  thumbnailUrl: shwetank.jpg
-  description: "A tech and robotics geek, Shwetank is an exemplary engineer. Brilliant with the keyboard, whether it's writing insightful articles or running hefty algorithms. His profound grasp of world politics makes him an invaluable part of our team. Shwetank has a keen interest in sci-fi books and thrillers, especially ones revolving around narcotics.  When stumbling onto doors leading to ingenious agendae, he's the one who knocks."
+  thumbnailUrl: radhika.jpg
+  description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
   team: true
 - 
   id: 4
@@ -88,11 +88,11 @@
   team: true
 - 
   id: 12
-  name: "Param"
-  surname: "Kothari"
+  name: "Tejal"
+  surname: "Agarwal"
   title: "USG Administration"
-  thumbnailUrl: param.jpg
-  description: "Having been a part of the international press before, this man is the one who makes the team tick. Zealous, industrious and punctual to the point where it’s annoying. A pun lord in his free time, Param’s love for sleep can only be surpassed by his love for football."
+  thumbnailUrl: tejal.jpg
+  description: "The unquestionable Mafia champion of the team, you just cannot defeat Tejal in an argument. Always with an amusing reply on the tip of her tongue, her innate smartness is conspicuous in her work as writer. An intense blend of acute reasoning and flawless language, her articles are a joy to read.  Although her witty retorts might prove fatal at times, Tejal is the most convivial person you’ll ever meet."
   team: true
 - 
   id: 13
@@ -112,27 +112,27 @@
   team: true
 - 
   id: 15
-  name: "Shubham"
-  surname: "Salunke"
-  title: "USG Public Relations"
-  thumbnailUrl: shubham.jpg
-  description: "Working diligently in the Conference affairs, Shubham never shies away from responsibilities. Give him any task and he will execute it with utmost punctuality and enthusiasm. Apart from his tireless zeal, he is an avid football enthusiast as well as an immaculate player."
+  name: "Shubhang"
+  surname: "Shukla"
+  title: "Director General"
+  thumbnailUrl: shukla.jpg
+  description: "The undisputed quizzing champion of IIT Guwahati, Shubhang is not someone you'd want to challenge when it comes to knowing facts and figure. His keen interest in football is reflected in the way he idolizes Lionel Messi and he thoroughly enjoys reading. There's definitely so much more to him than what meets the eye. Above all, the quality one would admire the most is how he'll always go out of his way to help someone."
   team: true
 - 
   id: 16
-  name: "Akash"
-  surname: "Sharma"
+  name: "Sanchit"
+  surname: "Jhunjhunwala"
   title: "USG Conference Affairs"
-  thumbnailUrl: akash.jpg
-  description: "The multi-tasking maestro of the team, his energy and vigour are unmatched. From working in conference affairs to then shifting his focus to agenda research, Akash is literally the literary backbone of the team. Already well versed with politics and international relations, his thirst for knowledge keeps adding to his platter. In his free time, (if he gets any) Akash loves to travel and play table tennis."
+  thumbnailUrl: sanchit.jpg
+  description: "For three years, Sanchit has been a pillar among the many, for the team. This hard working chap, with a profound knowledge of international relations and political dynamics has a zest for expression and writing. His acumen at managing teams makes him a leader to follow. Work aside, he loves stringing rhymes on his violin and idolizes Jonathan Nolan."
   team: true
 - 
   id: 17
-  name: "Radhika"
-  surname: "Goyal"
+  name: "Shwetank"
+  surname: "Panwar"
   title: "USG International Press"
-  thumbnailUrl: radhika.jpg
-  description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
+  thumbnailUrl: shwetank.jpg
+  description: "A tech and robotics geek, Shwetank is an exemplary engineer. Brilliant with the keyboard, whether it's writing insightful articles or running hefty algorithms. His profound grasp of world politics makes him an invaluable part of our team. Shwetank has a keen interest in sci-fi books and thrillers, especially ones revolving around narcotics.  When stumbling onto doors leading to ingenious agendae, he's the one who knocks."
   team: true
 - 
   id: 18
