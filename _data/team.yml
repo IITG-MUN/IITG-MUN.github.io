@@ -18,7 +18,7 @@
   id: 2
   name: "Shubham"
   surname: "Salunke"
-  title: "USG Public Relations"
+  title: "Director Public Relations"
   thumbnailUrl: shubham.jpg
   description: "Working diligently in the Conference affairs, Shubham never shies away from responsibilities. Give him any task and he will execute it with utmost punctuality and enthusiasm. Apart from his tireless zeal, he is an avid football enthusiast as well as an immaculate player."
   team: true
@@ -30,11 +30,11 @@
   thumbnailUrl: radhika.jpg
   description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
   team: true
-- 
+- <!--
   id: 4
   name: "Sangam"
   surname: "Sharma"
-  title: "Director Public Relations"
+  title: "USG Public Relations"
   thumbnailUrl: sangam.jpg
   description: "Lazier than you could ever be, his devil-may-care attitude makes him an accidental clown. With a newfound zeal to explore himself, he involves himself in whatever opportunity pops up. Though he is a typical cricket fan, he also takes a lot of interest in biking."
   team: true
@@ -174,3 +174,4 @@
   thumbnailUrl: rohan.jpg
   description: ""
   team: true
+  -->
