@@ -14,7 +14,7 @@ title: "IITG MUN"
 email: "iitgmun@alcheringa.in"
 description: "IIT Guwahati MUN Spring'18"
 baseurl: "/"
-url: http://iitgmun.org/
+url: http://siddhart18.github.io/
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "iitgmun.org"
@@ -58,7 +58,7 @@ apply-link: "/apply/"
 
 # Councils link
 lok-sabha-link: "/lok-sabha/"
-ecosoc-link: "/ecosoc/"
+ecosoc-link: "/unhrc/"
 unga-link: "/unga/"
 
 # Hero Block
@@ -104,9 +104,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "450", specialCharacter: "+", info: "Delegates", detail: "from all over India"}
- - {count: "25", specialCharacter: "+", info: "Executive Board", detail: "overall"}
- - {count: "20", specialCharacter: "+", info: "International Press", detail: "from country and beyond"}
+ - {count: "560", specialCharacter: "+", info: "Delegates", detail: "from all over India"}
+ - {count: "35", specialCharacter: "+", info: "Executive Board", detail: "overall"}
+ - {count: "30", specialCharacter: "+", info: "International Press", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "COUNCILS"
@@ -191,9 +191,9 @@ sponsors2List:
 
 # Apply Block
 applyTypes:
- - {type: "Delegate", applyLink: "https://goo.gl/xMbHnu", image: "Delegate.png"}
- - {type: "Executive Board", applyLink: "https://goo.gl/forms/SiCEGaZICk0CbR9H3", image: "EB app.png"}
- - {type: "International Press", applyLink: "https://goo.gl/86F8Mh", image: "Press app.png"}
+ - {type: "Delegate", applyLink: "https://forms.gle/MG1mQwg1qv48ymNe7", image: "Delegate.png"}
+ - {type: "Executive Board", applyLink: "https://forms.gle/SvsfJRfwDuc33vPH9", image: "EB app.png"}
+ - {type: "International Press", applyLink: "https://forms.gle/wSxQe4LM6zPaoZ2w6", image: "Press app.png"}
 
 # Committee Block
 applyTypes2:
@@ -209,32 +209,31 @@ applyTypes3:
 
 
 lok-sabha-title: "Lok Sabha"
-lok-sabha-agenda-text: "Amendement to the Transgender Rights Bill: Empowerment, Anti-Discrimination, and Gender Dysphoria"
+lok-sabha-agenda-text: "Ethics of Euthanasia in Contemporary Indian Society"
 about-lok-sabha-text: "Lok Sabha is composed of representatives of the people chosen by direct election on the basis of the adult suffrage..."
 lok-sabha-popup-text-about: "The Lok Sabha, which literally translates to ‘House of the People’ is the lower house of India's bicameral Parliament, the upper house being the Rajya Sabha. It has the power to pass bills on legislative, financial, executive, constitutional, electoral as well as judicial matters.’The Rules of Procedure and Conduct of Business in Lok Sabha’, as well as occasional ‘Directions issued by the Speaker’ regulate the procedure in Lok Sabha."
-lok-sabha-popup-text-agenda: "Transgenders have lived through most of modern history as social pariahs. Until recently, there had been little systemic accomodation of this community. This changed with supreme court's historic judgement to recognise them as people of a third gender. A certain “Transgender Rights Bill” was proposed in the Rajya Sabha, which was passed after much political dialogue and discussion. However, upon being tabled in the Lok Sabha, it was amended as “The Transgender Persons Bill” to a virtually unrecognizable extent. Hence, this winter session the Lok Sabha shall convene to argue issues of much humanitarian consequence like the right to self identification of gender, medical tests for gender determination, reservation for transgenders, hate speech as a criminal offence and a plethora of other intricate issues."
+lok-sabha-popup-text-agenda: "World over, there is ambiguity in forming legislation for euthanasia. There exist many narratives regarding this topic which span across varied regions of the world and through different periods. The current legislation in our country is still very dicey when it comes to euthanasia. A lot of it is driven by socio-economic and political factors. It becomes important to discuss this as it deals with human rights at large. This committee seeks to answer burning questions like who decides the value of life, when does a being ‘get a life’, can Right to Life supersede the Right to Die with Dignity, and so on. Join us in this debate which could be the turning stone for human rights legislation in our country."
 lokSabhaTopImage: "lok-sabha-top.jpg"
 
 unga-title: "United Nations General Assembly"
-unga-agenda-text: "Safeguarding Privacy in the Era of Mass Surveillance"
+unga-agenda-text: "The Global Climate Emergency: Ensuring Accountability and Assimilating Innovation"
 about-unga-text: "The General Assembly (GA) is the main deliberative, policymaking and representative organ of the UN. Decisions on important questions, such as..."
 unga-popup-text-about: "The General Assembly (GA) is the main policy making and representative organ of the UN. Decisions on important questions, such as those on peace and security, admission of new members and budgetary matters, require a two-thirds majority. Decisions on other questions are by simple majority. Each of the 193 member states of the United Nations has equal representation. The Assembly adopts its own rules of procedure and elects a President for each session."
-unga-popup-text-agenda: "Mass surveillance gains ever increasing popularity among governments of various countries as a possible aid for fighting terrorism, preventing crime and resolving social unrest. Concurrently, it begets a certain vibe of mistrust between the administration and the citizens. More often than not, this practice ends up breaching the right to privacy of its subjects. With no standardized set of rules in place to overlook organizations exercising surveillance, there is a need for collective initiation to protect the rights of civilians. UNGA shall do precisely that by bringing together various countries to deliberate on the same in hope of homogenous and liberal laws."
+unga-popup-text-agenda: "Where will you be when the seas rise and the waves wash over our megacities? What will you do when the air becomes so toxic that people won’t be able to survive breathing it? What will you say about your failure to your descendants when the world ends?All throughout human history, as much as we’ve thought about our past and how we came to be, we’ve also thought about our future- how we’re going to end. Is it going to be an asteroid strike? Will it be a volcanic eruption? As the answer hurtles towards us with increasing urgency, we have now reached the final countdown. What wipes out human civilization will be the most mundane reason of all: our greed. It is not an issue for future generations. It is not an issue we can talk about in 10-15 years. The problem is here, and the problem is now. If we do not act now, there’ll be nothing to act on later. At the end, when the dust settles, the Earth will be completely fine; it’s us that will be nowhere to be seen. This February, come play your part in saving the world. Because no matter what plans you have- there is no Planet B."
 ungaTopImage: "unga-top.jpg"
 
-ecosoc-title: "The Economic and Social Council"
-ecosoc-agenda-text: "Secession of the UK from the European Union: Trade, Border Policy, and Immigration"
+ecosoc-title: "United Nations Human Rights Council"
+ecosoc-agenda-text: "International Refugee Crisis: Modifying Laws and Structuring Enforcement"
 about-ecosoc-text: "ECOSOC (United Nations Economic and Social Council), one of the six main organs of the United Nations established by the UN Charter..."
 ecosoc-popup-text-about: "The working of the Economic and Social Council includes coordination of fourteen UN specialized agencies, ten functional commissions, and five regional commissions. Its purview extends over 70 percent of the human and financial resources of the entire UN system. The Council consists of 54 member states which are elected by the General Assembly for three-year terms. The Council holds a four-week substantive session each July, alternating between New York and Geneva. "
-ecosoc-popup-text-agenda: "Secession of the UK from the EU is in a crisis. With around four months left to negotiate, both the parties involved must hasten dialogue lest they should end up without a deal. The Westminster Parliament persists in its indecision. Peace in Northern Ireland, sovereignty of Scotland, and livelihoods of millions of people are some of the many things that are being put at stake by this secession. With the prospect of a social conflict and international trade being in jeopardy, ECOSOC shall convene to make this transition as harmonious as possible."
+ecosoc-popup-text-agenda: "Refugees and displaced people have their human rights in a state of constant turmoil due to incidents naturally occurring or artificially created. The laws and directives that govern the international community regarding refugees and the ongoing crisis are outdated, and consist of multiple loopholes. Due to this, the refugees go through immense hardship in escaping severe conditions and attaining refugee status, all the while continuously on the run. Another major source of concern is the state of enforcement that these laws are in. In todays world, there is no binding authority which makes sure that the refugees are in humane situations. This injustice has to come to an end. Join the debate, and be a part of the discussion over one of the world’s most controversial events in the recent past."
 ecosocTopImage: "ecosoc-top.jpg"
 
-wto-title: "COMMITTEE X"
-wto-agenda-text: "ADDRESSING POWER DISPARITY IN THE WTO: STRUCTURAL REFORM AND POLICY REVISIONS"
+wto-title: "Disarmament and International Security Committee"
+wto-agenda-text: "Reworking the Sokovia Accords: Regulation and Rights of Superhumans."
 about-wto-text: "ECOSOC (United Nations Economic and Social Council), one of the six main organs of the United Nations established by the UN Charter..."
 wto-popup-text-agenda: "The featured council of Edition X, this is the stage for the bigs. Introduced with this edition, the featured committee rakes in the brass of substantial debate in and around the circuit and pits them up against one another to heave it out in the most politically technical, lobbying intensive and inherently exciting debate. Such a committe wouldn't just be for one to participate in, it is worth spectating. Therefore developments in the council shall be streamed to the public and updates given to the other councils, while in action. Committee X calls for the most confident of orators and negotiators. Hence, the decoupled application procedure. Please note, only applicants with due experience in debate (primarily in UN simulations, secondarily elsewhere) shall be considered."
-wto-popup-text-agenda2: "Trade is significant in the evolution of the humanity as a medium for exchange of not only commodities but also ideas. With the onset of modern era the scale of trade has experienced a drastic leap in terms of volumes. Moreover the need of regulations in the trade market in order to keep the playing field suitable for all has never been this high. With this objective WTO was established back in 1995 and with time it became integral part of world trade regulating nearly all of the worlds trade. But now it faces challenges that jeopardizes the very existence of the WTO and there is immediate need to bring reforms that constructively counter balances this menace."
-wtoTopImage: "ecosoc-top.jpg"
+wto-popup-text-agenda2: "The Marvel Cinematic Universe is at a crossroads. One that will determine the future of millions of its citizens. It will take only the sharpest political minds and the most eloquent of orators to resolve this crisis. The Sokovia Accords were put forward by the United Nations in 2016 as a means by which the UN could regulate and increase accountability for superhuman activity around the world. Though the basic intent and idea was sound, the Accords themselves were fundamentally flawed, completely ineffective and majorly violated basic human rights. The Accords were seen by many as nothing but a political pipe dream.Now, with new superhumans coming to light all around the world every day, there is an urgent need to create an international set of standards by which superheroes can be effectively regulated for the safety of the public and themselves, while at the same time, ensuring that no human rights and liberties are violated.This February, immerse yourself in a world of fierce debate to work towards creating an effective, humane and implementable set of regulations for enhanced individuals all around the world."
 
 
 locationLink: "https://www.google.co.in/maps/place/IIT+Guwahati+Conference+Hall/@26.1920316,91.6878585,17z/data=!4m5!3m4!1s0x375a5ac17d2b58d7:0xb853cd7b55039193!8m2!3d26.191117!4d91.692547?hl=en"
@@ -274,7 +273,7 @@ ticketsOffers:
 
 # Tweets Feed Block
 tweetsFeedTitle2: "\"That the powerful play goes on, and you may contribute a verse."
-tweetsFeedTitle3: "What will be your verse?\""
+tweetsFeedTitle3: "“What verse shall be yours?\""
 twitterHashTag2: "IITGMUN18"
 deadPoets: "Dead Poets society"
 waltWhitman: "O me! O life!, Walt Whitman"
