@@ -18,18 +18,84 @@
   id: 2
   name: "Shubham"
   surname: "Salunke"
-  title: "Director Public Relations"
+  title: "Director Outreach"
   thumbnailUrl: shubham.jpg
   description: "Working diligently in the Conference affairs, Shubham never shies away from responsibilities. Give him any task and he will execute it with utmost punctuality and enthusiasm. Apart from his tireless zeal, he is an avid football enthusiast as well as an immaculate player."
   team: true
 - 
-  id: 3
+  id: 4
   name: "Radhika"
   surname: "Goyal"
   title: "Director International Press"
   thumbnailUrl: radhika.jpg
   description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
   team: true
+  
+  id: 5
+  name: "Tahir"
+  surname: "D'Mellow"
+  title: "USG Administration"
+  thumbnailUrl: tahir.jpg
+  description: ""
+  team: true
+  
+  id: 6
+  name: "Vishwaprasanna"
+  surname: "Hariharan"
+  title: "USG Conference Affairs"
+  thumbnailUrl: vishwa.jpg
+  description: ""
+  team: true
+  
+  id: 7
+  name: "Neha"
+  surname: "Dargar"
+  title: "USG Creative Content"
+  thumbnailUrl: neha.jpg
+  description: ""
+  team: true
+- 
+  id: 8
+  name: "Vishnu"
+  surname: "Suresh"
+  title: "USG International Press"
+  thumbnailUrl: vishnu.jpg
+  description: ""
+  team: true
+- 
+  id: 9
+  name: "Revanth"
+  surname: "Turlapati"
+  title: "Deputy Secretary General"
+  thumbnailUrl: revanth.jpg
+  description: ""
+  team: true
+- 
+  id: 10
+  name: "Manasi"
+  surname: "Medha"
+  title: "USG Personal Relations and Branding"
+  thumbnailUrl: manasi.jpg
+  description: ""
+  team: true
+  
+  id: 11
+  name: "Ayush"
+  surname: "Jain"
+  title: "USG Technical Operations"
+  thumbnailUrl: ayush.jpg
+  description: ""
+  team: true
+  
+  id: 12
+  name: "Siddharha"
+  surname: "Jain"
+  title: "USG Technical Operations"
+  thumbnailUrl: siddhartha.jpg
+  description: ""
+  team: true
+  
+  
 - 
 #   id: 4
 #   name: "Sangam"
