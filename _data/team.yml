@@ -30,7 +30,7 @@
   thumbnailUrl: radhika.jpg
   description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
   team: true
-  
+-
   id: 4
   name: "Tahir"
   surname: "D'Mellow"
@@ -38,7 +38,7 @@
   thumbnailUrl: tahir.jpg
   description: ""
   team: true
-  
+-
   id: 5
   name: "Vishwaprasanna"
   surname: "Hariharan"
@@ -46,7 +46,7 @@
   thumbnailUrl: vishwa.jpg
   description: ""
   team: true
-  
+-
   id: 6
   name: "Neha"
   surname: "Dargar"
@@ -78,7 +78,7 @@
   thumbnailUrl: manasi.jpg
   description: ""
   team: true
-  
+-
   id: 10
   name: "Ayush"
   surname: "Jain"
@@ -86,16 +86,14 @@
   thumbnailUrl: ayush.jpg
   description: ""
   team: true
-  
+-
   id: 11
   name: "Siddharha"
   surname: "Jain"
   title: "USG Technical Operations"
   thumbnailUrl: siddhartha.jpg
   description: ""
-  team: true
-  
-  
+  team: true 
 - 
 #   id: 4
 #   name: "Sangam"
