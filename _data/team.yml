@@ -23,7 +23,7 @@
   description: "Working diligently in the Conference affairs, Shubham never shies away from responsibilities. Give him any task and he will execute it with utmost punctuality and enthusiasm. Apart from his tireless zeal, he is an avid football enthusiast as well as an immaculate player."
   team: true
 - 
-  id: 4
+  id: 3
   name: "Radhika"
   surname: "Goyal"
   title: "Director International Press"
@@ -31,7 +31,7 @@
   description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
   team: true
   
-  id: 5
+  id: 4
   name: "Tahir"
   surname: "D'Mellow"
   title: "USG Administration"
@@ -39,7 +39,7 @@
   description: ""
   team: true
   
-  id: 6
+  id: 5
   name: "Vishwaprasanna"
   surname: "Hariharan"
   title: "USG Conference Affairs"
@@ -47,7 +47,7 @@
   description: ""
   team: true
   
-  id: 7
+  id: 6
   name: "Neha"
   surname: "Dargar"
   title: "USG Creative Content"
@@ -55,7 +55,7 @@
   description: ""
   team: true
 - 
-  id: 8
+  id: 7
   name: "Vishnu"
   surname: "Suresh"
   title: "USG International Press"
@@ -63,7 +63,7 @@
   description: ""
   team: true
 - 
-  id: 9
+  id: 8
   name: "Revanth"
   surname: "Turlapati"
   title: "Deputy Secretary General"
@@ -71,7 +71,7 @@
   description: ""
   team: true
 - 
-  id: 10
+  id: 9
   name: "Manasi"
   surname: "Medha"
   title: "USG Personal Relations and Branding"
@@ -79,7 +79,7 @@
   description: ""
   team: true
   
-  id: 11
+  id: 10
   name: "Ayush"
   surname: "Jain"
   title: "USG Technical Operations"
@@ -87,7 +87,7 @@
   description: ""
   team: true
   
-  id: 12
+  id: 11
   name: "Siddharha"
   surname: "Jain"
   title: "USG Technical Operations"
