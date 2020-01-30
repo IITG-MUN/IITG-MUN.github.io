@@ -33,7 +33,7 @@
 -
   id: 4
   name: "Tahir"
-  surname: "D'Mellow"
+  surname: "D'Mello"
   title: "USG Administration"
   thumbnailUrl: tahir.jpg
   description: ""
@@ -88,7 +88,7 @@
   team: true
 -
   id: 11
-  name: "Siddharha"
+  name: "Siddhartha"
   surname: "Jain"
   title: "USG Technical Operations"
   thumbnailUrl: siddhartha.jpg
