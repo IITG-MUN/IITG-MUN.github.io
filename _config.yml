@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "IITG MUN"
 email: "iitgmun@alcheringa.in"
 description: "IIT Guwahati MUN Spring'18"
-baseurl: "/"
+baseurl: "/HarryJPatel"
 url: http://iitgmun.org/
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -277,6 +277,10 @@ tweetsFeedTitle3: "“What verse shall be yours?\""
 twitterHashTag2: "IITGMUN18"
 deadPoets: "Dead Poets society"
 waltWhitman: "O me! O life!, Walt Whitman"
+appsnotopen1: "Applications for the IITGMUN Edition 14\nconference have not been opened yet"
+appsnotopen2: "Conference dates and details will be announced soon."
+appsnotopen3: "Stay Tuned!"
+appsnotopen4: "Want to receive an email when conference details are out?"
 
 
 # Workshop page
