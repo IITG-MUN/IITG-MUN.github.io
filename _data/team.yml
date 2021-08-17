@@ -1,99 +1,156 @@
 - 
   id: 0
-  name: "Param"
-  surname: "Kothari"
+  name: "Harry"
+  surname: "Patel"
   title: "Secretary General"
-  thumbnailUrl: param.jpg
-  description: "Having been a part of the international press before, this man is the one who makes the team tick. Zealous, industrious and punctual to the point where it’s annoying. A pun lord in his free time, Param’s love for sleep can only be surpassed by his love for football."
+  thumbnailUrl: harry.jpg
+  description: ""
   team: true
 - 
   id: 1
-  name: "Akash"
-  surname: "Sharma"
-  title: "Chief of Staff"
-  thumbnailUrl: akash.jpg
-  description: "The multi-tasking maestro of the team, his energy and vigour are unmatched. From working in conference affairs to then shifting his focus to agenda research, Akash is literally the literary backbone of the team. Already well versed with politics and international relations, his thirst for knowledge keeps adding to his platter. In his free time, (if he gets any) Akash loves to travel and play table tennis."
+  name: "Hrishikesh"
+  surname: "Patil"
+  title: "Director General"
+  thumbnailUrl: hrishikesh.jpg
+  description: ""
   team: true
 - 
   id: 2
-  name: "Shubham"
-  surname: "Salunke"
-  title: "Director Outreach"
-  thumbnailUrl: shubham.jpg
-  description: "Working diligently in the Conference affairs, Shubham never shies away from responsibilities. Give him any task and he will execute it with utmost punctuality and enthusiasm. Apart from his tireless zeal, he is an avid football enthusiast as well as an immaculate player."
+  name: "Aditya"
+  surname: "Joshi"
+  title: "Director, Operations"
+  thumbnailUrl: aditya.jpg
+  description: ""
   team: true
 - 
   id: 3
-  name: "Radhika"
-  surname: "Goyal"
-  title: "Director International Press"
-  thumbnailUrl: radhika.jpg
-  description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
+  name: "Sharan"
+  surname: "Marepally"
+  title: "Director, International Press"
+  thumbnailUrl: sharan.jpg
+  description: ""
   team: true
 -
   id: 4
-  name: "Tahir"
-  surname: "D'Mello"
-  title: "USG Administration"
-  thumbnailUrl: tahir.jpg
+  name: "Thanush"
+  surname: "Kilaru"
+  title: "Director, Outreach"
+  thumbnailUrl: thanush.jpg
   description: ""
   team: true
 -
   id: 5
-  name: "Vishwaprasanna"
-  surname: "Hariharan"
-  title: "USG Conference Affairs"
-  thumbnailUrl: vishwa.jpg
+  name: "Utkarsh"
+  surname: "Chaturvedi"
+  title: "Director, Public Relations"
+  thumbnailUrl: utkarsh.jpg
   description: ""
   team: true
 -
   id: 6
-  name: "Neha"
-  surname: "Dargar"
-  title: "USG Creative Content"
-  thumbnailUrl: neha.jpg
+  name: "Vetha"
+  surname: "Vikashini CR"
+  title: "Director, Branding"
+  thumbnailUrl: vetha.jpg
   description: ""
   team: true
-- 
-  id: 7
-  name: "Vishnu"
-  surname: "Suresh"
-  title: "USG International Press"
-  thumbnailUrl: vishnu.jpg
-  description: ""
-  team: true
-- 
-  id: 8
-  name: "Revanth"
-  surname: "Turlapati"
-  title: "Deputy Secretary General"
-  thumbnailUrl: revanth.jpg
-  description: ""
-  team: true
-- 
-  id: 9
-  name: "Manasi"
-  surname: "Medha"
-  title: "USG Personal Relations and Branding"
-  thumbnailUrl: manasi.jpg
-  description: ""
-  team: true
--
-  id: 10
-  name: "Ayush"
-  surname: "Jain"
-  title: "USG Technical Operations"
-  thumbnailUrl: ayush.jpg
-  description: ""
-  team: true
--
-  id: 11
-  name: "Siddhartha"
-  surname: "Jain"
-  title: "USG Technical Operations"
-  thumbnailUrl: siddhartha.jpg
-  description: ""
-  team: true 
+
+# - 
+#   id: 0
+#   name: "Param"
+#   surname: "Kothari"
+#   title: "Secretary General"
+#   thumbnailUrl: param.jpg
+#   description: "Having been a part of the international press before, this man is the one who makes the team tick. Zealous, industrious and punctual to the point where it’s annoying. A pun lord in his free time, Param’s love for sleep can only be surpassed by his love for football."
+#   team: true
+# - 
+#   id: 1
+#   name: "Akash"
+#   surname: "Sharma"
+#   title: "Chief of Staff"
+#   thumbnailUrl: akash.jpg
+#   description: "The multi-tasking maestro of the team, his energy and vigour are unmatched. From working in conference affairs to then shifting his focus to agenda research, Akash is literally the literary backbone of the team. Already well versed with politics and international relations, his thirst for knowledge keeps adding to his platter. In his free time, (if he gets any) Akash loves to travel and play table tennis."
+#   team: true
+# - 
+#   id: 2
+#   name: "Shubham"
+#   surname: "Salunke"
+#   title: "Director Outreach"
+#   thumbnailUrl: shubham.jpg
+#   description: "Working diligently in the Conference affairs, Shubham never shies away from responsibilities. Give him any task and he will execute it with utmost punctuality and enthusiasm. Apart from his tireless zeal, he is an avid football enthusiast as well as an immaculate player."
+#   team: true
+# - 
+#   id: 3
+#   name: "Radhika"
+#   surname: "Goyal"
+#   title: "Director International Press"
+#   thumbnailUrl: radhika.jpg
+#   description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
+#   team: true
+# -
+#   id: 4
+#   name: "Tahir"
+#   surname: "D'Mello"
+#   title: "USG Administration"
+#   thumbnailUrl: tahir.jpg
+#   description: ""
+#   team: true
+# -
+#   id: 5
+#   name: "Vishwaprasanna"
+#   surname: "Hariharan"
+#   title: "USG Conference Affairs"
+#   thumbnailUrl: vishwa.jpg
+#   description: ""
+#   team: true
+# -
+#   id: 6
+#   name: "Neha"
+#   surname: "Dargar"
+#   title: "USG Creative Content"
+#   thumbnailUrl: neha.jpg
+#   description: ""
+#   team: true
+# - 
+#   id: 7
+#   name: "Vishnu"
+#   surname: "Suresh"
+#   title: "USG International Press"
+#   thumbnailUrl: vishnu.jpg
+#   description: ""
+#   team: true
+# - 
+#   id: 8
+#   name: "Revanth"
+#   surname: "Turlapati"
+#   title: "Deputy Secretary General"
+#   thumbnailUrl: revanth.jpg
+#   description: ""
+#   team: true
+# - 
+#   id: 9
+#   name: "Manasi"
+#   surname: "Medha"
+#   title: "USG Personal Relations and Branding"
+#   thumbnailUrl: manasi.jpg
+#   description: ""
+#   team: true
+# -
+#   id: 10
+#   name: "Ayush"
+#   surname: "Jain"
+#   title: "USG Technical Operations"
+#   thumbnailUrl: ayush.jpg
+#   description: ""
+#   team: true
+# -
+#   id: 11
+#   name: "Siddhartha"
+#   surname: "Jain"
+#   title: "USG Technical Operations"
+#   thumbnailUrl: siddhartha.jpg
+#   description: ""
+#   team: true 
 - 
 #   id: 4
 #   name: "Sangam"
