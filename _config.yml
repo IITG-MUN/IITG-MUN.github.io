@@ -104,9 +104,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "560", specialCharacter: "+", info: "Delegates", detail: "from all over India"}
- - {count: "35", specialCharacter: "+", info: "Executive Board", detail: "overall"}
- - {count: "30", specialCharacter: "+", info: "International Press", detail: "from country and beyond"}
+ - {count: "700", specialCharacter: "+", info: "Delegates", detail: "from all over India"}
+ - {count: "50", specialCharacter: "+", info: "Executive Board", detail: "overall"}
+ - {count: "45", specialCharacter: "+", info: "International Press", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "COUNCILS"
@@ -165,7 +165,7 @@ footerBlocks:
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "The MUN, or the Model United Nations, is a simulation of the actual UN. The participants pretend to represent a nation, and come to together to discuss the very same issues being debated upon in the UN. This gives a normal person the opportunity to know what’s its like to stand for something more than himself/herself, and to experience the complicated the verbal dance and that politicians and delegates take part in everyday. The MUN is a conclave for ideation by the fresh minds of our nation, to brainstorm solutions to problems plaguing our world. Participants work through the tenuous relationships between nations as they deliberate towards a resolution – and they get to look
+aboutUs: "The MUN, or the Model United Nations, is a simulation of the actual UN. Participants represent a nation, and come together to discuss the very same issues being debated upon in the UN. This gives a normal person the opportunity to know what it's like to stand for something more than themself, and to experience the complicated verbal dance that politicians, delegates, and representatives take part in everyday. The MUN is a conclave for ideation by the fresh minds of our nation, to brainstorm solutions to problems plaguing our world. Participants work through the tenuous relationships between nations as they deliberate towards a resolution – and they get to look
 nice in a suit and tie while they do it!"
 
 # Contact Us block
@@ -191,9 +191,11 @@ sponsors2List:
 
 # Apply Block
 applyTypes:
- - {type: "Delegate", applyLink: "https://forms.gle/MG1mQwg1qv48ymNe7", image: "Delegate.png"}
- - {type: "Executive Board", applyLink: "https://forms.gle/SvsfJRfwDuc33vPH9", image: "EB app.png"}
- - {type: "International Press", applyLink: "https://forms.gle/wSxQe4LM6zPaoZ2w6", image: "Press app.png"}
+#  - {type: "Subscribe for Updates", applyLink: "https://forms.gle/9ej775rkqUBjv3Kh6", image: "Delegate.png"}
+#  - {type: "Delegate", applyLink: "https://forms.gle/MG1mQwg1qv48ymNe7", image: "Delegate.png"}
+#  - {type: "Executive Board", applyLink: "https://forms.gle/SvsfJRfwDuc33vPH9", image: "EB app.png"}
+#  - {type: "International Press", applyLink: "https://forms.gle/wSxQe4LM6zPaoZ2w6", image: "Press app.png"}
+
 
 # Committee Block
 applyTypes2:
@@ -237,7 +239,7 @@ wto-popup-text-agenda2: "The Marvel Cinematic Universe is at a crossroads. One t
 
 
 locationLink: "https://www.google.co.in/maps/place/IIT+Guwahati+Conference+Hall/@26.1920316,91.6878585,17z/data=!4m5!3m4!1s0x375a5ac17d2b58d7:0xb853cd7b55039193!8m2!3d26.191117!4d91.692547?hl=en"
-teamImage: "team.jpg"
+teamImage: "team20.jpg"
 signatureImage: "signature.png"
 mun-image: "MUN.jpg"
 
