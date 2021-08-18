@@ -4451,6 +4451,14 @@ background: #e7e7e7;
     margin-top: 10px;
 }
 
+.linkedin-logo {
+    background: url("../img/sprites/logo_linkedin.svg") no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 3vh;
+    margin-top: 10px;
+}
+
 .twitter-logo {
     background: url("../img/sprites/logo_twitter.svg") no-repeat;
     background-position: center;
