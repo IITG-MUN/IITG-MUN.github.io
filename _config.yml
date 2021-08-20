@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "IITG MUN"
 email: "iitgmun@alcheringa.in"
-description: "IIT Guwahati MUN Spring'18"
+description: "IIT Guwahati MUN Spring'22"
 baseurl: "/"
 url: http://iitgmun.org/
 permalink: "/blog/:title"
@@ -23,7 +23,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "IITG MUN"
 organizerAlternateName: "IIT Guwahati MUN"
-organizerDescription: "IIT Guwahati MUN Spring'18"
+organizerDescription: "IIT Guwahati MUN Spring'22"
 organizerEmail: "iitgmun@alcheringa.in"
 organizerLogo: "/img/favicons/favicon.png"
 organizerLink: "iitgmun.org"
@@ -69,34 +69,6 @@ typeoutFallback: ""
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
 
-# About Block
-aboutTitle: "LETTER FROM THE SECRETARY GENERAL"
-letterContent: "Dear Delegates,\n
-
-As the Secretary General of IIT Guwahati Model United Nations Conference (IITGMUN) 2018, I could not be more venerated to welcome you all on behalf of my passionate team to the most ambitious version of the IIT Guwahati Model United Nations Conference - Alcheringa yet.
-
-Every year, IITGMUN endeavors to provide a simulated learning platform to like-minded folks with a zealous passion for debating, international diplomacy as well as politics, and deliberative problem-solving. As a learning conference, we prioritize the development of mindset for finding the solutions to pressing world issues by putting oneself in the shoes of a country's representative. We believe that the best way to learn about international diplomacy is by actually doing it. At its core, the IITGMUN Conference is planned, organized, and directed in its totality by a passionate team of IIT Guwahati students that hail from different academic and cultural backgrounds, bringing their unique experiences to the dais. Over the years, we have been successful in delivering thought-intensive conferences to novice as well as seasoned delegates.  
-
-The contemporary world scenario has been dominated by disruptions, both positive and negative. While the former can serve as a driving force for the global growth engine, dealing with the latter requires meticulous planning and deliberation. As a proponent of this thought, we have handpicked three agendae for this winter and set the floor for discussion on the same.
-
-Namely:
-UNGA: Preparing for Trans-Arctic Seafaring: Resolving the Impasse over the North-West Passage
-
-ECOSOC: Fulfilling UN Sustainable Development Goals in the Age of Artificial Intelligence
-
-Lok Sabha : Elucidation of Privacy and its Consequences as a Right
-
-All these agendae are the product of incessant discussions and brainstorming among the team members to deliver the most debatable and relevant global quandaries to the participants. The selectivity of these agendae itself reflects our commitment to deliver the best we possibly can and traverse beyond the conventional line of thought.
-  
-We as a generation have the best time and resources, enumerated with the experience of older generations, to shape the world in a way we want. The onus is on us to act and deliberate as the choices of today will be governing the future in an unprecedented manner.
-
-With an abyssal optimism, I leave you with the mantle and ask you to take part in an event that awaits a brilliant ensemble of delegates who dare to take on upcoming challenges in the world with courage and diplomacy. Wishing you all the very best of luck for the conference.
-
-Sincerely,
-Paridhi Kothari
-Secretary General
-IIT Guwahati Model UN Conference
-"
 letterImage: "conference.jpg"
 aboutBlock:
  - {title: "", image: "conference.jpg", text: "Dear participants, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." }
@@ -129,7 +101,7 @@ reviewsImage: "reviews.jpg"
 reviewsBackgroundImage: "reviewsBG.jpg"
 review1: "It's a really amazing platform to learn not only about the affairs of the world but also about how to articulate your thoughts and put them into words."
 review1Author: "Vishwaprasanna Hariharan"
-review2: "A Great platform to gain knowledge about the way things are being operated in the real world and to discuss its pros and cons"
+review2: "A great platform to gain knowledge about the way things are being operated in the real world and to discuss its pros and cons"
 review2Author: "Sudhanshu Bhatia"
 
 # Venue Block
@@ -241,7 +213,7 @@ wto-popup-text-agenda2: "The Marvel Cinematic Universe is at a crossroads. One t
 locationLink: "https://www.google.co.in/maps/place/IIT+Guwahati+Conference+Hall/@26.1920316,91.6878585,17z/data=!4m5!3m4!1s0x375a5ac17d2b58d7:0xb853cd7b55039193!8m2!3d26.191117!4d91.692547?hl=en"
 teamImage: "team20.jpg"
 signatureImage: "signature.png"
-mun-image: "MUN.jpg"
+mun-image: "hero.jpg"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
