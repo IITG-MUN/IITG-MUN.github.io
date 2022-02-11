@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "IITG MUN"
 email: "iitgmun@alcheringa.in"
 description: "IIT Guwahati MUN Spring'22"
-baseurl: "/HarryJPatel"
+baseurl: "/"
 url: http://iitgmun.org/
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
