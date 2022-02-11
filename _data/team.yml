@@ -48,6 +48,14 @@
   team: true
 -
   id: 6
+  name: "Ch."
+  surname: "Nidhi"
+  title: "Director, Creative Content"
+  thumbnailUrl: nidhi.jpg
+  description: ""
+  team: true
+-
+  id: 7
   name: "Vetha"
   surname: "Vikashini CR"
   title: "Director, Branding"
@@ -55,20 +63,11 @@
   description: ""
   team: true
 -
-  id: 7
+  id: 8
   name: "Arjya"
   surname: "Shreya Dash"
   title: "Director, Logistics"
   thumbnailUrl: aryan.jpg
-  description: ""
-  team: true
-
--
-  id: 8
-  name: "Ch."
-  surname: "Nidhi"
-  title: "Director, Creative Content"
-  thumbnailUrl: nidhi.jpg
   description: ""
   team: true
 -

@@ -1,16 +1,16 @@
 <section>
-	<div id="agendas" class="content-wrapper">
+	<!-- <div id="agendas" class="content-wrapper">
         <div class="col-md-8 col-md-offset-2">
             <font style="color: #ac8230"><h3 style="font-weight:normal; font-size: 30px;">{{ site.appsnotopen1 }}<br>{{ site.appsnotopen2 }}</font><br>
             	<h3 style="font-weight:normal; font-size: 20px;">{{ site.appsnotopen4 }}<br><a href="https://forms.gle/9ej775rkqUBjv3Kh6" target="_blank" rel="noopener noreferrer"><font style="color: #6c93b1">Click Here!</font> </a>
             </h3>
         </div>
-    </div>
-	<!-- Change following div container's id to agendas when updated for 'council' tab redirection to work-->
-	 <div id="agendas_" class="content-wrapper" style="display: none;">
-	 	<div class="row">
+    </div> -->
+	<!-- Change following div container's id to agendas when updated for 'council' tab redirection to work. Also remove the stlye tag that says display: none-->
+	 <div id="agendas" class="content-wrapper">
+	 	<div class="col-md-19">
 	 		<a href="{{ site.baseurl }}/unga">
-	 		<div class="col-md-3" align="center">
+	 		<div class="col-md-4" align="center">
 	 			<div class="apply-type"  style="background-image: url('{{ site.baseurl }}/img/apply/UNGA.png');">
 	 				<!--
 	 				<a href="{{ item.applyLink }}" class="btn btn-responsive btn-primary apply-button" style="color: white;">APPLY</a>
@@ -19,7 +19,7 @@
 	 		</div>
 	 		</a>
 	 		<a href="{{ site.baseurl }}/lok-sabha">
-	 		<div class="col-md-3" align="center">
+	 		<div class="col-md-4" align="center">
 	 			<div class="apply-type"  style="background-image: url('{{ site.baseurl }}/img/apply/Lok Sabha.png');">
 	 				<!--
 	 				<a href="{{ item.applyLink }}" class="btn btn-responsive btn-primary apply-button" style="color: white;">APPLY</a>
@@ -28,7 +28,7 @@
 	 		</div>
 	 		</a>
 	 		<a href="{{ site.baseurl }}/unhrc">
-	 		<div class="col-md-3" align="center">
+	 		<div class="col-md-4" align="center">
 	 			<div class="apply-type" style="background-image: url('{{ site.baseurl }}/img/apply/UNHRC.png');">
 	 				<!--
 	 				<a href="{{ item.applyLink }}" class="btn btn-responsive btn-primary apply-button" style="color: white;">APPLY</a>
@@ -36,11 +36,5 @@
 	 			</div>
 	 		</div>
 	 		</a>
-	 	<a href="{{ site.baseurl }}/disec">
-	 		<div class="col-md-3" align="center">
-	 			<div class="apply-type"  style="background-image: url('{{ site.baseurl }}/img/apply/DISEC.png');">
-	 			</div>
-	 		</div>
-	 	</a>
 	 </div>
 </section>
