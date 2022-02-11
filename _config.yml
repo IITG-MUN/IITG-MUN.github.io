@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "IITG MUN"
 email: "iitgmun@alcheringa.in"
 description: "IIT Guwahati MUN Spring'22"
-baseurl: "/"
+baseurl: "/HarryJPatel"
 url: http://iitgmun.org/
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -47,9 +47,9 @@ navigationLinks:
  - {permalink: "/team/", text: "About Us"}
  - {permalink: "/contact-us/", text: "Contact Us"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
+ - {link: "/", text: "Apply now"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
+ - {link: "/", text: "Apply now"}
 applyLink:
  - {permalink: "/apply", text: "Apply"}
 
@@ -163,8 +163,7 @@ sponsors2List:
 
 # Apply Block
 applyTypes:
-#  - {type: "Subscribe for Updates", applyLink: "https://forms.gle/9ej775rkqUBjv3Kh6", image: "Delegate.png"}
-#  - {type: "Delegate", applyLink: "https://forms.gle/MG1mQwg1qv48ymNe7", image: "Delegate.png"}
+#  - {type: "Delegate & Executive Board", applyLink: "https://forms.gle/MG1mQwg1qv48ymNe7", image: "Delegate.png"}
 #  - {type: "Executive Board", applyLink: "https://forms.gle/SvsfJRfwDuc33vPH9", image: "EB app.png"}
 #  - {type: "International Press", applyLink: "https://forms.gle/wSxQe4LM6zPaoZ2w6", image: "Press app.png"}
 
@@ -181,19 +180,18 @@ applyTypes3:
  - {type: "Executive Board", applyLink: "https://goo.gl/forms/m1wdPYnQJ7QEsgbl2", image: "EB app.png"}
  - {type: "International Press", applyLink: "https://goo.gl/forms/whankT1dRGjfoO0I3", image: "Press app.png"}
 
+applymaster22: "https://docs.google.com/forms/d/e/1FAIpQLSeuRIK-3xr1R7NptSyY5KCpqWVaEOLu1_FYP6qmy-8ryjQ08w/viewform"
 
 lok-sabha-title: "Lok Sabha"
-lok-sabha-agenda-text: "Ethics of Euthanasia in Contemporary Indian Society"
+lok-sabha-agenda-text: "Publicly Private"
 about-lok-sabha-text: "Lok Sabha is composed of representatives of the people chosen by direct election on the basis of the adult suffrage..."
 lok-sabha-popup-text-about: "The Lok Sabha, which literally translates to ‘House of the People’ is the lower house of India's bicameral Parliament, the upper house being the Rajya Sabha. It has the power to pass bills on legislative, financial, executive, constitutional, electoral as well as judicial matters.’The Rules of Procedure and Conduct of Business in Lok Sabha’, as well as occasional ‘Directions issued by the Speaker’ regulate the procedure in Lok Sabha."
-lok-sabha-popup-text-agenda: "World over, there is ambiguity in forming legislation for euthanasia. There exist many narratives regarding this topic which span across varied regions of the world and through different periods. The current legislation in our country is still very dicey when it comes to euthanasia. A lot of it is driven by socio-economic and political factors. It becomes important to discuss this as it deals with human rights at large. This committee seeks to answer burning questions like who decides the value of life, when does a being ‘get a life’, can Right to Life supersede the Right to Die with Dignity, and so on. Join us in this debate which could be the turning stone for human rights legislation in our country."
+lok-sabha-popup-text-agenda: "Since independence, it has been a trend that commodities common to all citizens is the responsibility of the government. Hence was the inception of the Public sector in India. Ever since, the distribution such entities in India has gone through immense changes, some for the better, some for worse. However, the biggest change that has taken place is the shift of authority into the hands of private enterprises.<br>In light of the evolving trend, The IITG Model United Nations Edition 14 proudly presents its first agenda, a Lok Sabha committee, Publicly Private: Analysing Privatisation and Disinvestment. Given the current economic state of the country, recovering from covid, can the common man bear this shift or is the private sector growing considerate to the everyday needs of the citizens. The argument for privatisation is that the private sector is more efficient and that public sector units perform better when they are in private hands. What does the evidence say, though? As India begins on a huge sell-off, these are considerations to examine. Are you up to the challenge?"
 lokSabhaTopImage: "lok-sabha-top.jpg"
 
 unga-title: "United Nations General Assembly"
-unga-agenda-text: "The Global Climate Emergency: Ensuring Accountability and Assimilating Innovation"
-about-unga-text: "The General Assembly (GA) is the main deliberative, policymaking and representative organ of the UN. Decisions on important questions, such as..."
-unga-popup-text-about: "The General Assembly (GA) is the main policy making and representative organ of the UN. Decisions on important questions, such as those on peace and security, admission of new members and budgetary matters, require a two-thirds majority. Decisions on other questions are by simple majority. Each of the 193 member states of the United Nations has equal representation. The Assembly adopts its own rules of procedure and elects a President for each session."
-unga-popup-text-agenda: "Where will you be when the seas rise and the waves wash over our megacities? What will you do when the air becomes so toxic that people won’t be able to survive breathing it? What will you say about your failure to your descendants when the world ends?All throughout human history, as much as we’ve thought about our past and how we came to be, we’ve also thought about our future- how we’re going to end. Is it going to be an asteroid strike? Will it be a volcanic eruption? As the answer hurtles towards us with increasing urgency, we have now reached the final countdown. What wipes out human civilization will be the most mundane reason of all: our greed. It is not an issue for future generations. It is not an issue we can talk about in 10-15 years. The problem is here, and the problem is now. If we do not act now, there’ll be nothing to act on later. At the end, when the dust settles, the Earth will be completely fine; it’s us that will be nowhere to be seen. This February, come play your part in saving the world. Because no matter what plans you have- there is no Planet B."
+unga-agenda-text: "Winning Against War"
+unga-popup-text-agenda: "From the two World Wars to as recently as the Israel-Gaza Conflict, actions of warring factions and nations have continued to violate international laws and commit atrocities. Yet it has been found difficult to precisely define the term 'war crime,' and its usage has, and continues to, evolve constantly. Despite being internationally recognized as a war crime, these atrocities seldom fall under the jurisdiction of a governing body and often warrant no action or relief. <br> The IITG Model United Nations Edition 14 brings to you the agenda for the UN General Assembly, “Winning Against War”. Here, you will take into consideration the past, debate the present and ideate the future course of action on armed conflicts and wars and the ways in which they can be resolved, if not avoided, at the international level."
 ungaTopImage: "unga-top.jpg"
 
 ecosoc-title: "United Nations Human Rights Council"
